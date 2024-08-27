@@ -84,6 +84,7 @@ for letter in range(word_length):
     display+="_"
 print(display)
 lives=6
+print(f"You have {lives} lives left .")
 game_over=False
 correct_letters=[]
 while not game_over:
