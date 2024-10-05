@@ -1,6 +1,7 @@
 # Guess the number Game
+import random
 print("Welcome to Guess the number Game !!!")
-num=67
+num=random.randint(1,100)
 print("Hint :The number is between 1 to 100.")
 level=input("Choose difficulty level - (hard or easy) :\n").lower()
 if level == "easy":
