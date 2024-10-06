@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d43fa6e6-fb78-4d16-ae27-9bcb376a6bdf" name="Changes" comment="" />
+    <list default="true" id="d43fa6e6-fb78-4d16-ae27-9bcb376a6bdf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day-13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,23 +34,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.day-01.executor": "Run",
-    "Python.day-02.executor": "Run",
-    "Python.day-03.executor": "Run",
-    "Python.day-04.executor": "Run",
-    "Python.day-05.executor": "Run",
-    "Python.day-07.executor": "Run",
-    "Python.day-08.executor": "Run",
-    "Python.day-09.executor": "Run",
-    "Python.day-10.executor": "Run",
-    "Python.day-11.executor": "Run",
-    "Python.day-12.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.day-01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day-12.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
