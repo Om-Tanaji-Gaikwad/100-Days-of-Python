@@ -10,9 +10,9 @@
 # print(my_screen.canvheight)
 # my_screen.exitonclick()
 
-from menu import Menu
-from coffee_maker import CoffeeMaker
-from money_machine import MoneyMachine
+from day_16_menu import Menu
+from day_16_coffee_maker import CoffeeMaker
+from day_16_money_machine import MoneyMachine
 
 money_machine = MoneyMachine()
 coffee_maker = CoffeeMaker()
