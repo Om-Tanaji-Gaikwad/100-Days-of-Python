@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43fa6e6-fb78-4d16-ae27-9bcb376a6bdf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day_17_quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-16_coffee_maker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-16.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-16_menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-16_money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,55 +36,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.day-01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day-16.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.day-01.executor": "Run",
+    "Python.day-02.executor": "Run",
+    "Python.day-03.executor": "Run",
+    "Python.day-04.executor": "Run",
+    "Python.day-05.executor": "Run",
+    "Python.day-07.executor": "Run",
+    "Python.day-08.executor": "Run",
+    "Python.day-09.executor": "Run",
+    "Python.day-10.executor": "Run",
+    "Python.day-11.executor": "Run",
+    "Python.day-12.executor": "Run",
+    "Python.day-14.executor": "Run",
+    "Python.day-15.executor": "Run",
+    "Python.day-16.executor": "Run",
+    "Python.day_16.executor": "Run",
+    "Python.day_17.executor": "Run",
+    "Python.day_18.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="day-16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100-Days Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day-16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.day-16" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
