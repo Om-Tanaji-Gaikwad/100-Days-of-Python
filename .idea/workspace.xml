@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43fa6e6-fb78-4d16-ae27-9bcb376a6bdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_20_snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_21_food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_21_scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_21_snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +58,9 @@
     "Python.day_18.executor": "Run",
     "Python.day_19.executor": "Run",
     "Python.day_20.executor": "Run",
+    "Python.day_21.executor": "Run",
+    "Python.day_21_food.executor": "Run",
+    "Python.day_21_scoreboard.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
