@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43fa6e6-fb78-4d16-ae27-9bcb376a6bdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_22_ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_22_paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_22_scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_23_car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_23_player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_23_scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,8 @@
     "Python.day_21_scoreboard.executor": "Run",
     "Python.day_22.executor": "Run",
     "Python.day_22_paddle.executor": "Run",
+    "Python.day_23.executor": "Run",
+    "Python.day_23_car_manager.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
